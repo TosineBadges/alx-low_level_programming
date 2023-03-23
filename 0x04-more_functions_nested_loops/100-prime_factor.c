@@ -79,4 +79,4 @@ long int biggestFactor(long int a)
 			}
 		}
 	}
-	return (0);
+	return (factor);
